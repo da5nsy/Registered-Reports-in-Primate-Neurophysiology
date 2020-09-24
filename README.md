@@ -1,4 +1,8 @@
-# Registered-Reports-in-Primate-Neurophysiology
+# Registered Reports in Primate Neurophysiology
+***Working out how to make the [registered report format](https://www.cos.io/initiatives/registered-reports) work for primate neurophysiology, as part of [OLS-2](https://openlifesci.org/ols-2).***
+
+Here's where I'll be tracking progress on the project throughout the OLS program: [link](https://github.com/open-life-science/ols-2/issues/28).
+
 
 ## [Vision Statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)
 
