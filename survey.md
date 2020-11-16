@@ -30,6 +30,7 @@ The results of this survey will be... (if you choose to part please indicate if 
 	- Not sure
 
 5. Rate the following concerns (how to rate?):
+These are things that people often express as concerns. How many of these would you say are concerns of yours.
 	- Front-loading of beurocracy
 	- Stifling of creativity
 	- Investing time in a project before the outcome is known
