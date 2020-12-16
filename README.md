@@ -1,6 +1,6 @@
-# Registered Reports in Primate Neurophysiology
+# :memo: Registered Reports in Primate Neurophysiology
 
-Welcome! Thanks for stopping by! :wave:
+Welcome! Hello! Thanks for stopping by! :wave:
 
 **This project aims to further the adoption of the [Registered Report format](https://cos.io/RR) within the field of primate neurophysiology.**
 
