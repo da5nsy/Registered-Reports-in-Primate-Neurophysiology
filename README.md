@@ -11,6 +11,7 @@ All research has costs (money, time, energy). In addition to these costs, resear
 ## Roadmap
 
 ![A roadmap image](https://raw.githubusercontent.com/da5nsy/Registered-Reports-in-Primate-Neurophysiology/main/roadmap_simple.png)
+
 A more detailed roadmap is available [here](https://github.com/da5nsy/Registered-Reports-in-Primate-Neurophysiology/blob/main/Roadmap.pptx).
 
 ## Contributing
