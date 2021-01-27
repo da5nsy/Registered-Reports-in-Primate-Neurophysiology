@@ -1,44 +1,27 @@
-This is the first draft of a survey which would potentially be sent out to researchers to help understand the current usage of RRs, and barriers to usage of RRs.
+This is the text that was used for the [survey on typeform](https://dannygarside.typeform.com/to/vRr3V9LF) between 20201216 and 20210127.
 
-Accompanying text:
+---
 
-I am a researcher at the National Institutes of Health, conducting a project with the goal of extending the use of the registered report format within the field of primate neurophysiology. I am currently conducting a survey in order to gain an understanding of current opinion on RRs in the field, and the barriers to usage (both general and specific to this field).
+Thank you for participating in this survey. Your participation should help us to understand the current opinion on Registered Reports and identify barriers to their adoption within the primate neurophysiology community.
 
-I got your details by ...
+1. Have you heard of Registered Reports before?
+	- Yes
+	- Yes, but remind me...?
+	- No
 
-The survey should take roughly X minutes.
+A. Registered Reports are a scholarly reporting format where peer review occurs before results are known. This helps to align scientific values and practices and means that feedback can be received at a time where it is most impactful. More info: cos.io/RR
 
-The results of this survey will be... (if you choose to part please indicate if you would like your contribution to be attributed to you or for anonymization to be attempted).
+2. Have you used a Registered Report format to report your work before?
 
------------
-
-1. Have you heard of *registered reports* before?
-	- Yes. Go to question 2.
-	- No. Go to question 3.
-
-2. Have you used a registered report format to report your work before?
-	- Yes. Go to Q5.
-	- No. Go to Q4.
-
-3. Registered reports are...
-	Further resources are available at X.
-	Go to Q4.
-
-4. Would you consider using a registered report format for reporting your work in the future?
+3. Would you consider using the Registered Report format for reporting your work in the future?
 	- Yes
 	- No
-	- Not sure
+	- Maybe
+	
+4. Do you envisage any barriers which might deter you from using the Registered Report format?
+	- [open answer]
+	
+5. If you are willing to be contacted with follow-up questions, please enter your email address (just hit enter otherwise)
+	- [open answer]
 
-5. Rate the following concerns (how to rate?):
-These are things that people often express as concerns. How many of these would you say are concerns of yours.
-	- Front-loading of beurocracy
-	- Stifling of creativity
-	- Investing time in a project before the outcome is known
-
-(perhaps there is a list of FAQ/common concerns that I could draw on?)
-	-
-
-## Info on RRs
-
-A registered report is a reporting style whereby a manuscript is submitted to a journal before data collection occurs. It looks like a normal manuscript, apart from that the results section is missing, and the data analysis section has a data analysis plan or analysis of simulated data instead of a data analysis on real data.
-
+A. Thank you for your time. Further information about the project is available at https://github.com/da5nsy/Registered-Reports-in-Primate-Neurophysiology
