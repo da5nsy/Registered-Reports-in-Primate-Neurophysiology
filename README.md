@@ -4,7 +4,7 @@ Welcome! Hello! Thanks for stopping by! :wave:
 
 **This project aims to further the adoption of the [Registered Report format](https://cos.io/RR) within the field of primate neurophysiology.**
 
-Registered Reports are a scholarly reporting format where peer review occurs before results are known. This helps to align scientific values and practices (by minimizing publication bias and reducing the potential for questionable research practices) and means that feedback can be received at a time where it is most impactful (before a study is performed, not after). More info: [cos.io/RR](https://cos.io/RR)
+Registered Reports are a scholarly reporting format where peer review occurs before results are known. This helps to align scientific values and practices (by minimizing publication bias and reducing the potential for questionable research practices) and means that feedback can be received at a time where it is most impactful (before a study is performed rather than after). More info: [cos.io/RR](https://cos.io/RR)
 
 All research has costs (money, time, energy). In addition to these costs, research which uses animals has an additional moral cost. Therefore, there is extra incentive not to have to perform the same study more than once, which happens when research goes unreported either due to [publication bias](https://en.wikipedia.org/wiki/Publication_bias) or because it has issues which could have been avoided if raised before data collection, but not afterwards.
 
